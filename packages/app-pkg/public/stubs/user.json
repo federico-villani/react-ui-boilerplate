@@ -1,0 +1,14 @@
+{"status": "success",
+  "data": [
+    {
+      "sapUserID": "3f58d782-a0d4-435b-bf45-c53be0b47c37",
+      "userEmailAddress": "federico.villani@accenture.com",
+      "givenName": "Federico",
+      "surname": "Villani",
+      "displayName": "Villani, Federico",
+      "country": "",
+      "profilePicUrl": "https://people.accenture.com/misc/PhotoProvider.ashx?pk=",
+      "peoplekey": "",
+      "cms_roles": "Administrator, Content Author"
+    }
+  ]}

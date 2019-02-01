@@ -1,0 +1,10 @@
+/**
+  style.css
+  it can be both a .css or a .scss file
+*/
+.greenClass{
+  color: green;
+  &:hover {
+    color: red;
+  }
+}

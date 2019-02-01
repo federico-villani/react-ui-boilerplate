@@ -1,0 +1,42 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# css
+src/**/*.css
+
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+.idea/
+# production
+/build
+
+# misc
+.vscode
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+!/src/styles/bootstrap/bootstrap.min.css
+*.sublime-project
+*.sublime-workspace
+_assets/
+#!/src/containers/Editor/EditorContent/quill.snow.css
+#!/src/containers/EditorDraft/EditorDraftContent/draft.css
+#!/src/containers/EditorDraft/EditorDraftContent/Draft-lib.css
+#!/src/containers/EditorDraft/EditorDraftContent/RichEditor.css
+!/src/styles/font/icomoon-demo/demo.css
+!/src/styles/font/icomoon-demo/style.css
+!/src/styles/font/new-set-icon/icomoon-new-set-demo/style.css
+!/src/styles/font/new-set-icon/icomoon-new-set-demo/demo.css
+#/tunnel.cookie
+/*.cookie
+.cache/
+.env

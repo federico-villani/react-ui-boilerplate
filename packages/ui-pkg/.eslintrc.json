@@ -1,0 +1,51 @@
+{
+  "env": {
+    "browser": true
+  },
+  "extends": [
+    "react-app",
+    "airbnb"
+  ],
+  "parser": "babel-eslint",
+  "rules": {
+    "comma-dangle": ["error", "never"],
+    "max-len": [0, { "code": 120 }],
+    "camelcase": 0,
+    "quotes": [2, "single",{ "avoidEscape": true }],
+    "jsx-a11y/anchor-is-valid":0,
+    "jsx-a11y/label-has-for": 0,
+    "jsx-a11y/click-events-have-key-events": 0,
+    "jsx-a11y/no-noninteractive-element-interactions": 0,
+    "jsx-a11y/no-static-element-interactions": 0,
+    "jsx-a11y/anchor-has-content": 0,
+    "jsx-a11y/label-has-associated-control": 0,
+    "import/no-unresolved": 0,
+    "import/prefer-default-export": 0,
+    "import/no-extraneous-dependencies": 0,
+    "linebreak-style": 0,
+    "no-console": "warn",
+    "no-nested-ternary": 0,
+    "no-param-reassign": 0,
+    "no-prototype-builtins": 0,
+    "no-restricted-syntax": 0,
+    "no-return-assign": 0,
+    "no-unused-vars": "warn",
+    "no-unused-expressions": 0,
+    "prefer-promise-reject-errors": 0,
+    "react/destructuring-assignment": "off",
+    "react/forbid-prop-types": 0,
+    "react/jsx-no-target-blank": 0,
+    "react/jsx-one-expression-per-line": 0,
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "react/no-access-state-in-setstate": 0,
+    "react/no-array-index-key": 0,
+    "react/no-danger": 0,
+    "react/no-danger-with-children": 0,
+    "react/no-unescaped-entities": 0,
+    "react/no-did-update-set-state": 0,
+    "react/prop-types": "warn",
+    "react/require-default-props": 0,
+    "spaced-comment": 0,
+    "no-underscore-dangle": "off"
+  }
+}
