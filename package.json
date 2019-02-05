@@ -6,10 +6,10 @@
     "build-all": "lerna run build",
     "ui-pkg-storybook-start": "npm -C ./packages/ui-pkg run storybook",
     "ui-pkg-storybook-build": "npm -C ./packages/ui-pkg run build-storybook",
-    "app-pkg-build": "npm -C ./packages/app-pkg run build",
-    "app-pkg-start": "npm -C ./packages/app-pkg run start",
     "ui-pkg-build": "npm -C ./packages/ui-pkg run build",
-    "ui-pkg-start": "npm -C ./packages/ui-pkg run start"
+    "ui-pkg-start": "npm -C ./packages/ui-pkg run start",
+    "app-pkg-build": "npm -C ./packages/app-pkg run build",
+    "app-pkg-start": "npm -C ./packages/app-pkg run start"
   },
   "dependencies": {},
   "devDependencies": {

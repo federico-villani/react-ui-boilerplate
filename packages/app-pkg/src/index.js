@@ -1,6 +1,5 @@
 /* IE11 polyfill */
 import 'babel-polyfill';
-import 'matchmedia-polyfill';
 import 'react-app-polyfill/ie11';
 
 import 'normalize.css';
