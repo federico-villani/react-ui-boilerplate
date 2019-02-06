@@ -1,4 +1,4 @@
-# 🔥REACT - REACT UI🔥 Starter Kit
+# 🔥🔥 REACT - REACT UI 🔥🔥 Starter Kit
 
 A React boilerplate with and based on:
   - React-scripts
