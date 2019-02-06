@@ -64,7 +64,8 @@ import { MyUIComponent } from 'ui-pkg';
 
   - [Basic](https://www.styled-components.com/docs/basics)
 
-  - [Advanced](https://www.styled-components.com/docs/advanced)</details>
+  - [Advanced](https://www.styled-components.com/docs/advanced)
+  </details>
 
 - [React Router](https://reacttraining.com/react-router/web/example/basic)
 
@@ -72,7 +73,8 @@ import { MyUIComponent } from 'ui-pkg';
 
   - [JSX](https://jsx.github.io/)
 
-  - [JSX in react](https://reactjs.org/docs/introducing-jsx.html)</details>
+  - [JSX in react](https://reactjs.org/docs/introducing-jsx.html)
+  </details>
 
 - [Storybook](https://storybook.js.org/basics/introduction/)
 
@@ -138,7 +140,8 @@ import { MyUIComponent } from 'ui-pkg';
 
   - [Material UI](https://material-ui.com/)
 
-  - [Reactstrap - Bootstrap v4 for React](https://reactstrap.github.io/)</details>
+  - [Reactstrap - Bootstrap v4 for React](https://reactstrap.github.io/)
+  </details>
 
 
 - [Gatsby - Site generator](https://github.com/gatsbyjs/gatsby)
