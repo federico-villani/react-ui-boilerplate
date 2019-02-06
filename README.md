@@ -15,7 +15,7 @@ A React boilerplate with and based on:
   
   ... and more and more
   
-  To cut a long story short, a powerful and scalable set of plugins ready-to-use that will allow you to start a project from scratch with everything you may need ( well... 😇).
+  Long story short, a powerful and scalable set of plugins ready-to-use that will allow you to start a project from scratch with everything you may need ( well... 😇).
   
   Lerna is already set up to manage, build and run the storybook/UI Library pack along with the app package.
   You have just to create the UI component inside the ui-pkg and then include it in the app-pgk like this:
