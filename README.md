@@ -2,22 +2,22 @@
 
 A React boilerplate with and based on:
   - React-scripts
-  - Styled components
+  - Styled-components
   - React-router
   - Lerna config
   - Storybook
   - Babel + Webpack custom config
   - ESLINT + airbnb rules
-  - React Bootstrap (you may prefer reactstrap, it's more or less the same)
-  - Customize-cra
+  - React Bootstrap (you may prefer Reactstrap, it's more or less the same)
+  - Customize-CRA
   - React-app-rewired
   - Ant design
   
   ... and more and more
   
-  Long story short, a powerful and scalable set of plugins ready-to-use that will allow you to start a project from scratch with everything you may need ( well... 😇).
+  Long story short, a powerful and scalable set of plugins ready-to-use that will allow you to easily start a new project from scratch with everything you may need ( well... 😇).
   
-  Lerna is already set up to manage, build and run the storybook/UI Library pack along with the app package.
+  Lerna is already set up to manage, build and run the storybook/UI Library pack along with the app package. Hot reload included! 
   You have just to create the UI component inside the ui-pkg and then include it in the app-pgk like this:
 
   ```tsx
@@ -25,12 +25,10 @@ A React boilerplate with and based on:
 import { MyUIComponent } from 'ui-pkg';
 ```
    
-   It contains also different ways to handle styling in react, like   
+   It also contains different ways to handle the styling in react, like:
    - `CSS-in-JS` --> `Styled Components`
    - `CSS modules`
    - native inline `style={{}}` 
-   
-In the next future i'll provide the same boilerplate with Redux Thunk and Saga as well, as of now there is only the middleware wrapping the App but not the actions/sagas/reducers templates 
 
 ## The steps you need to follow to install and run the project:
 
@@ -161,3 +159,11 @@ In the next future i'll provide the same boilerplate with Redux Thunk and Saga a
 - [Gatsby - Site generator](https://github.com/gatsbyjs/gatsby)
 
 
+## What's next?
+   
+In the next future i'll provide the same boilerplate with separate branches including Redux Thunk and Saga config as well. It will be up to you to know which one would fit better for your own need. 
+As of now in master branch there is only the middleware wrapping the App but not the actions/sagas/reducers templates 
+
+## Contributing
+
+If you think i missed something ( surely i did 😬 ) feel free to create an issue or a PR
