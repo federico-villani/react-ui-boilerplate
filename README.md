@@ -1,11 +1,11 @@
-# REACT - REACT UI
+# 🔥REACT - REACT UI🔥 Starter Kit
 
-A React boilerplate with:
+A React boilerplate with and based on:
+  - React-scripts
   - Styled components
   - React-router
   - Lerna config
   - Storybook
-  - React-scripts
   - Babel + Webpack custom config
   - ESLINT + airbnb rules
   - React Bootstrap (you may prefer reactstrap, it's more or less the same)
@@ -15,12 +15,25 @@ A React boilerplate with:
   
   ... and more and more
   
+  To cut a long story short, a powerful and scalable set of plugins ready-to-use that will allow you to start a project from scratch with everything you may need ( well... 😇).
+  
+  Lerna is already set up to manage, build and run the storybook/UI Library pack along with the app package.
+  You have just to create the UI component inside the ui-pkg and then include it in the app-pgk like this:
+
+  ```tsx
+// in app-pgk containers/components  
+import { MyUIComponent } from 'ui-pkg';
+```
+   
+   It contains also different ways to handle styling in react, like   
+   - `CSS-in-JS` --> `Styled Components`
+   - `CSS modules`
+   - native inline `style={{}}` 
+   
 In the next future i'll provide the same boilerplate with Redux Thunk and Saga as well, as of now there is only the middleware wrapping the App but not the actions/sagas/reducers templates 
 
 ## The steps you need to follow to install and run the project:
 
-- enter /packages/app-pkg and create a file named `.env` with this value inside:
-  `SKIP_PREFLIGHT_CHECK = true`
 - from the root, run `npm install`
 - from the root, run `npm run bootstrap-hoist`
 - from the root, run `npm run ui-pkg-build`
