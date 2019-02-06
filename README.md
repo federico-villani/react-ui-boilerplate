@@ -59,8 +59,6 @@ import { MyUIComponent } from 'ui-pkg';
 
   - [Create React App v2 release note](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)</details>
 
-
-
 - <details><summary>Styled Components</summary>
 
   - [Basic](https://www.styled-components.com/docs/basics)
