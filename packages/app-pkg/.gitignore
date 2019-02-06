@@ -39,4 +39,4 @@ _assets/
 #/tunnel.cookie
 /*.cookie
 .cache/
-.env
+# .env
