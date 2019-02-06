@@ -43,87 +43,123 @@ In the next future i'll provide the same boilerplate with Redux Thunk and Saga a
 ## Utils
 
 ### Basic
+<details>
 
-https://reactjs.org/docs/getting-started.html
+<summary>React</summary>
 
-https://reactjs.org/docs/thinking-in-react.html
+[Getting started](https://reactjs.org/docs/getting-started.html)
 
-https://facebook.github.io/create-react-app/docs/getting-started
+[Hello World](https://reactjs.org/docs/hello-world.html)
 
-https://reactjs.org/blog/2018/10/01/create-react-app-v2.html
+[Compontents and props](https://reactjs.org/docs/components-and-props.html)
 
-https://www.styled-components.com/docs/basics
+[State and lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
 
-https://www.styled-components.com/docs/advanced
+[Conditional rendering](https://reactjs.org/docs/conditional-rendering.html)
 
-https://reacttraining.com/react-router/web/example/basic
+[Thinking in react](https://reactjs.org/docs/thinking-in-react.html)
 
-https://storybook.js.org/basics/introduction/
 
-https://reactjs.org/docs/components-and-props.html
+[Create React App](https://facebook.github.io/create-react-app/docs/getting-started)
 
-https://reactjs.org/docs/state-and-lifecycle.html
+[Create React App v2 release note](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)
 
-https://reactjs.org/docs/introducing-jsx.html
+</details>
 
-https://jsx.github.io/
 
-http://es6-features.org/
+<details>
 
-https://cssinjs.org/?v=v10.0.0-alpha.8
+<summary>Styled Components</summary>
 
-https://glenmaddern.com/articles/css-modules
+[Basic](https://www.styled-components.com/docs/basics)
+
+[Advanced](https://www.styled-components.com/docs/advanced)
+
+</details>
+
+[React Router](https://reacttraining.com/react-router/web/example/basic)
+
+
+<details>
+
+<summary>JSX</summary>
+
+[JSX](https://jsx.github.io/)
+
+[JSX in react](https://reactjs.org/docs/introducing-jsx.html)
+
+</details>
+
+[Storybook](https://storybook.js.org/basics/introduction/)
+
+[es6](http://es6-features.org/)
+
+[css-in-js](https://cssinjs.org)
+
+[css-modules](https://glenmaddern.com/articles/css-modules)
+
+
 
 ### Advanced
 
-https://redux.js.org/
+[Redux](https://redux.js.org/)
 
-https://redux-saga.js.org/docs/introduction/BeginnerTutorial.html
+[Redux Saga](https://redux-saga.js.org/docs/introduction/BeginnerTutorial.html)
 
-https://babeljs.io/
+[Babel](https://babeljs.io/)
 
-https://webpack.js.org/
+[Webpack](https://webpack.js.org/)
 
-https://github.com/lerna/lerna
+[Lerna](https://github.com/lerna/lerna)
 
-https://facebook.github.io/immutable-js/
+[Immutable.js](https://facebook.github.io/immutable-js/)
 
-https://eslint.org/ + AirBnB rules + Custom rules
+[ESLINT](https://eslint.org/) + AirBnB rules + Custom rules
 
-https://www.npmjs.com/package/prop-types
+[Prop Types](https://www.npmjs.com/package/prop-types)
 
-https://reactjs.org/docs/typechecking-with-proptypes.html
+[Prop Types in React](https://reactjs.org/docs/typechecking-with-proptypes.html
+)
 
-https://reactjs.org/docs/higher-order-components.html
+[React - High Order Components](https://reactjs.org/docs/higher-order-components.html)
 
-https://reactjs.org/docs/react-api.html
+[React - API](https://reactjs.org/docs/react-api.html)
 
-https://github.com/arackaf/customize-cra
+[Customize CRA](https://github.com/arackaf/customize-cra)
 
-https://github.com/timarney/react-app-rewired
+[React App Rewired](https://github.com/timarney/react-app-rewired)
 
+[NextJS - Server Side Rendering](https://nextjs.org/)
 
-### Tools
+[React - Typescript cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet?fbclid=IwAR1OHnqDaghBIfRTwd9X3n574vLkXKCT5qijXL53B_cNT43JX953DMmeA2Y)
 
+### Dev Tools
 
-https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd
+[Chrome - React](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
-https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en
+[Chrome - React Sight](https://chrome.google.com/webstore/detail/react-sight/aalppolilappfakpmdfdkpppdnhpgifn)
 
-https://chrome.google.com/webstore/detail/react-sight/aalppolilappfakpmdfdkpppdnhpgifn
+[Chrome - Redux](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
 
 JSX/REACT/REDUX/SCSS/STYLED-COMPONENTS/GIT webstorm/vscode plugins
 
 
 ### Extras
 
-https://reactjs.org/community/starter-kits.html
+[React - Starter kits](https://reactjs.org/community/starter-kits.html)
 
-https://ant.design/docs/react/introduce
+<details>
 
-https://material-ui.com/
+<summary>UI Component Libraries</summary>
 
-https://github.com/gatsbyjs/gatsby
+[Ant Design](https://ant.design/docs/react/introduce)
 
-https://nextjs.org/
+[Material UI](https://material-ui.com/)
+
+[Reactstrap - Bootstrap v4 for React](https://reactstrap.github.io/)
+
+</details>
+
+[Gatsby - Site generator](https://github.com/gatsbyjs/gatsby)
+
 
