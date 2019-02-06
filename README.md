@@ -43,129 +43,121 @@ In the next future i'll provide the same boilerplate with Redux Thunk and Saga a
 ## Utils
 
 ### Basic
-<details>
+- <details><summary>React</summary>
 
-<summary>React</summary>
+  - [Getting started](https://reactjs.org/docs/getting-started.html)
 
-[Getting started](https://reactjs.org/docs/getting-started.html)
+  - [Hello World](https://reactjs.org/docs/hello-world.html)
 
-[Hello World](https://reactjs.org/docs/hello-world.html)
+  - [Compontents and props](https://reactjs.org/docs/components-and-props.html)
 
-[Compontents and props](https://reactjs.org/docs/components-and-props.html)
+  - [State and lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
 
-[State and lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
+  - [Conditional rendering](https://reactjs.org/docs/conditional-rendering.html)
 
-[Conditional rendering](https://reactjs.org/docs/conditional-rendering.html)
-
-[Thinking in react](https://reactjs.org/docs/thinking-in-react.html)
+  - [Thinking in react](https://reactjs.org/docs/thinking-in-react.html)
 
 
-[Create React App](https://facebook.github.io/create-react-app/docs/getting-started)
+  - [Create React App](https://facebook.github.io/create-react-app/docs/getting-started)
 
-[Create React App v2 release note](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)
+  - [Create React App v2 release note](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)
 
 </details>
 
 
 
-<details>
+- <details><summary>Styled Components</summary>
 
-<summary>Styled Components</summary>
+  - [Basic](https://www.styled-components.com/docs/basics)
 
-[Basic](https://www.styled-components.com/docs/basics)
-
-[Advanced](https://www.styled-components.com/docs/advanced)
+  - [Advanced](https://www.styled-components.com/docs/advanced)
 
 </details>
 
 
-[React Router](https://reacttraining.com/react-router/web/example/basic)
+- [React Router](https://reacttraining.com/react-router/web/example/basic)
 
 
-<details>
+- <details><summary>JSX</summary>
 
-<summary>JSX</summary>
+  - [JSX](https://jsx.github.io/)
 
-[JSX](https://jsx.github.io/)
-
-[JSX in react](https://reactjs.org/docs/introducing-jsx.html)
+  - [JSX in react](https://reactjs.org/docs/introducing-jsx.html)
 
 
 </details>
 
 
 
-[Storybook](https://storybook.js.org/basics/introduction/)
+- [Storybook](https://storybook.js.org/basics/introduction/)
 
-[es6](http://es6-features.org/)
+- [es6](http://es6-features.org/)
 
-[css-in-js](https://cssinjs.org)
+- [css-in-js](https://cssinjs.org)
 
-[css-modules](https://glenmaddern.com/articles/css-modules)
+- [css-modules](https://glenmaddern.com/articles/css-modules)
 
 
 
 ### Advanced
 
-[Redux](https://redux.js.org/)
+- [Redux](https://redux.js.org/)
 
-[Redux Saga](https://redux-saga.js.org/docs/introduction/BeginnerTutorial.html)
+- [Redux Saga](https://redux-saga.js.org/docs/introduction/BeginnerTutorial.html)
 
-[Babel](https://babeljs.io/)
+- [Babel](https://babeljs.io/)
 
-[Webpack](https://webpack.js.org/)
+- [Webpack](https://webpack.js.org/)
 
-[Lerna](https://github.com/lerna/lerna)
+- [Lerna](https://github.com/lerna/lerna)
 
-[Immutable.js](https://facebook.github.io/immutable-js/)
+- [Immutable.js](https://facebook.github.io/immutable-js/)
 
-[ESLINT](https://eslint.org/) + AirBnB rules + Custom rules
+- [ESLINT](https://eslint.org/) + AirBnB rules + Custom rules
 
-[Prop Types](https://www.npmjs.com/package/prop-types)
+- [Prop Types](https://www.npmjs.com/package/prop-types)
 
-[Prop Types in React](https://reactjs.org/docs/typechecking-with-proptypes.html
+- [Prop Types in React](https://reactjs.org/docs/typechecking-with-proptypes.html
 )
 
-[React - High Order Components](https://reactjs.org/docs/higher-order-components.html)
+- [React - High Order Components](https://reactjs.org/docs/higher-order-components.html)
 
-[React - API](https://reactjs.org/docs/react-api.html)
+- [React - API](https://reactjs.org/docs/react-api.html)
 
-[Customize CRA](https://github.com/arackaf/customize-cra)
+- [Customize CRA](https://github.com/arackaf/customize-cra)
 
-[React App Rewired](https://github.com/timarney/react-app-rewired)
+- [React App Rewired](https://github.com/timarney/react-app-rewired)
 
-[NextJS - Server Side Rendering](https://nextjs.org/)
+- [NextJS - Server Side Rendering](https://nextjs.org/)
 
-[React - Typescript cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet?fbclid=IwAR1OHnqDaghBIfRTwd9X3n574vLkXKCT5qijXL53B_cNT43JX953DMmeA2Y)
+- [React - Typescript cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet?fbclid=IwAR1OHnqDaghBIfRTwd9X3n574vLkXKCT5qijXL53B_cNT43JX953DMmeA2Y)
 
 ### Dev Tools
 
-[Chrome - React](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+- [Chrome - React](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
-[Chrome - React Sight](https://chrome.google.com/webstore/detail/react-sight/aalppolilappfakpmdfdkpppdnhpgifn)
+- [Chrome - React Sight](https://chrome.google.com/webstore/detail/react-sight/aalppolilappfakpmdfdkpppdnhpgifn)
 
-[Chrome - Redux](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+- [Chrome - Redux](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
 
-JSX/REACT/REDUX/SCSS/STYLED-COMPONENTS/GIT webstorm/vscode plugins
+- JSX/REACT/REDUX/SCSS/STYLED-COMPONENTS/GIT webstorm/vscode plugins
 
 
 ### Extras
 
-[React - Starter kits](https://reactjs.org/community/starter-kits.html)
+ - [React - Starter kits](https://reactjs.org/community/starter-kits.html)
 
-<details>
+- <details><summary>UI Component Libraries</summary>
 
-<summary>UI Component Libraries</summary>
+  - [Ant Design](https://ant.design/docs/react/introduce)
 
-[Ant Design](https://ant.design/docs/react/introduce)
+  - [Material UI](https://material-ui.com/)
 
-[Material UI](https://material-ui.com/)
-
-[Reactstrap - Bootstrap v4 for React](https://reactstrap.github.io/)
+  - [Reactstrap - Bootstrap v4 for React](https://reactstrap.github.io/)
 
 </details>
 
 
-[Gatsby - Site generator](https://github.com/gatsbyjs/gatsby)
+- [Gatsby - Site generator](https://github.com/gatsbyjs/gatsby)
 
 
