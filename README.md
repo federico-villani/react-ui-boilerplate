@@ -67,6 +67,7 @@ In the next future i'll provide the same boilerplate with Redux Thunk and Saga a
 </details>
 
 
+
 <details>
 
 <summary>Styled Components</summary>
@@ -76,6 +77,7 @@ In the next future i'll provide the same boilerplate with Redux Thunk and Saga a
 [Advanced](https://www.styled-components.com/docs/advanced)
 
 </details>
+
 
 [React Router](https://reacttraining.com/react-router/web/example/basic)
 
@@ -88,7 +90,10 @@ In the next future i'll provide the same boilerplate with Redux Thunk and Saga a
 
 [JSX in react](https://reactjs.org/docs/introducing-jsx.html)
 
+
 </details>
+
+
 
 [Storybook](https://storybook.js.org/basics/introduction/)
 
@@ -159,6 +164,7 @@ JSX/REACT/REDUX/SCSS/STYLED-COMPONENTS/GIT webstorm/vscode plugins
 [Reactstrap - Bootstrap v4 for React](https://reactstrap.github.io/)
 
 </details>
+
 
 [Gatsby - Site generator](https://github.com/gatsbyjs/gatsby)
 
