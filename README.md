@@ -55,12 +55,9 @@ import { MyUIComponent } from 'ui-pkg';
 
   - [Thinking in react](https://reactjs.org/docs/thinking-in-react.html)
 
-
   - [Create React App](https://facebook.github.io/create-react-app/docs/getting-started)
 
-  - [Create React App v2 release note](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)
-
-</details>
+  - [Create React App v2 release note](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)</details>
 
 
 
@@ -68,24 +65,15 @@ import { MyUIComponent } from 'ui-pkg';
 
   - [Basic](https://www.styled-components.com/docs/basics)
 
-  - [Advanced](https://www.styled-components.com/docs/advanced)
-
-</details>
-
+  - [Advanced](https://www.styled-components.com/docs/advanced)</details>
 
 - [React Router](https://reacttraining.com/react-router/web/example/basic)
-
 
 - <details><summary>JSX</summary>
 
   - [JSX](https://jsx.github.io/)
 
-  - [JSX in react](https://reactjs.org/docs/introducing-jsx.html)
-
-
-</details>
-
-
+  - [JSX in react](https://reactjs.org/docs/introducing-jsx.html)</details>
 
 - [Storybook](https://storybook.js.org/basics/introduction/)
 
@@ -151,9 +139,7 @@ import { MyUIComponent } from 'ui-pkg';
 
   - [Material UI](https://material-ui.com/)
 
-  - [Reactstrap - Bootstrap v4 for React](https://reactstrap.github.io/)
-
-</details>
+  - [Reactstrap - Bootstrap v4 for React](https://reactstrap.github.io/)</details>
 
 
 - [Gatsby - Site generator](https://github.com/gatsbyjs/gatsby)
