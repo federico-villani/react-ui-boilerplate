@@ -1,7 +1,7 @@
 import React from 'react';
 // eslint-disable-next-line
 import PropTypes from 'prop-types';
-import { Grid, Row, Col } from 'react-bootstrap';
+import { Container, Row, Col } from 'reactstrap';
 
 import {
   MainFooter,
@@ -10,7 +10,7 @@ import {
 
 const Footer = () => (
   <MainFooter>
-    <Grid>
+    <Container>
       <Row>
         <FooterBlock paddingOverride={12}>
           <Col xs={12} md={12}>
@@ -23,7 +23,7 @@ const Footer = () => (
           </>
         </Col>
       </Row>
-    </Grid>
+    </Container>
   </MainFooter>
 );
 

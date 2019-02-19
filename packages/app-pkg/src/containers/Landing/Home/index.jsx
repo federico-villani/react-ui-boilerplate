@@ -1,7 +1,7 @@
 import React from 'react';
 // eslint-disable-next-line
 import PropTypes from 'prop-types';
-import { Grid, Row, Col } from 'react-bootstrap';
+import { Container, Row, Col } from 'reactstrap';
 import { IconFont, Button } from 'ui-pkg'; // include asset form ui-pkg via lerna
 import ButtonLink from '../../../components/ButtonLink';
 import CssModulesComponent from '../../../components/CssModulesComponent';
@@ -35,7 +35,7 @@ class Home extends React.Component {
 
   render() {
     return (
-      <Grid>
+      <Container>
         <Row>
           <Col
             xs={12}
@@ -54,7 +54,7 @@ class Home extends React.Component {
             <IconFont />
           </Col>
         </Row>
-      </Grid>
+      </Container>
     );
   }
 }
