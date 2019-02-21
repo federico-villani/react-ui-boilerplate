@@ -18,11 +18,11 @@
     "polished": "^2.3.1",
     "prop-types": "^15.6.2",
     "query-string": "5",
-    "react": "^16.7.0",
+    "react": "^16.8.2",
     "react-burger-menu": "^2.5.4",
     "react-class-hooks": "^0.2.0",
     "react-custom-scrollbars": "^4.2.1",
-    "react-dom": "^16.7.0",
+    "react-dom": "^16.8.2",
     "react-helmet": "^5.2.0",
     "react-player": "^1.8.0",
     "react-redux": "^6.0.0",
@@ -57,12 +57,7 @@
     "build-css": "react-app-rewired build",
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
-    "test": "react-app-rewired test --env=jsdom",
-    "tunnel-dev1": "node tunnel.js https://ngmdev1-web.azurewebsites.net tunnel-dev1.cookie",
-    "tunnel-test1": "node tunnel.js https://ngmtest1-web.azurewebsites.net tunnel-test1.cookie",
-    "tunnel-staging-test1": "node tunnel.js https://staging-ngmtest1-web.accenture.com tunnel-staging-test1.cookie",
-    "tunnel-preprod": "node tunnel.js https://ngmpreprod-web.azurewebsites.net tunnel-preprod.cookie",
-    "tunnel-prod": "node tunnel.js https://form.accenture.com tunnel-prod.cookie"
+    "test": "react-app-rewired test --env=jsdom"
   },
   "eslintConfig": {
     "extends": "react-app"

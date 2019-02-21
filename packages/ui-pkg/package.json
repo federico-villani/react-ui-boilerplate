@@ -25,14 +25,18 @@
     "@babel/core": "^7.2.2",
     "@babel/preset-env": "^7.3.1",
     "@babel/preset-react": "^7.0.0",
-    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
     "@storybook/addon-actions": "^4.1.6",
+    "@storybook/addon-knobs": "^4.1.12",
     "@storybook/addon-links": "^4.1.6",
+    "@storybook/addon-options": "^4.1.12",
+    "@storybook/addon-viewport": "^4.1.12",
     "@storybook/addons": "^4.1.6",
     "@storybook/react": "^4.1.6",
     "babel-loader": "8.0.4",
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0"
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2",
+    "storybook-addon-styled-component-theme": "^1.1.1"
   },
   "babel": {
     "presets": [
