@@ -13,7 +13,6 @@ import { history } from './redux/store';
 import { Redirect, Route, Switch } from './temp/react-router-dom';
 
 /* --- Components ---- */
-import Footer from './components/Footer';
 
 /* --- Containers ---- */
 import Layout from './containers/Layout';
@@ -83,7 +82,6 @@ class App extends Component {
                   <Redirect to="/404" />
                 </Route>
               </Switch>
-              <Footer />
             </div>
           </Router>
           {/* <Spinner spinnerState={spinnerState} /> */}

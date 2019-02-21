@@ -5,6 +5,7 @@ import Helmet from 'react-helmet';
 import { withRouter } from 'react-router-dom';
 import { connect } from 'react-redux';
 import MQ from '../../utils/mediaQueries';
+import Footer from '../../components/Footer';
 import {
   PageContainer,
   HeaderBlock
@@ -37,8 +38,7 @@ class Layout extends React.Component {
     this.setState({
       isPhone,
       isTabletAll
-    },
-    // eslint-disable-next-line
+    }, // eslint-disable-next-line
       console.log('resize DONE'));
     // @todo check this.state reference
   };
@@ -62,28 +62,31 @@ class Layout extends React.Component {
     // eslint-disable-next-line
     console.log('history', history);
     return (
-      <PageContainer>
-        <Helmet>
-          <title>REACT Boilerplate</title>
-        </Helmet>
-        <HeaderBlock
-          css={{
-            backgroundColor: 'hotpink',
-            '&:hover': {
-              color: 'lightgreen'
-            },
-            paddingLeft: '40px'
-          }}
-        >
-          <h4>
-            HEADER
-          </h4>
-        </HeaderBlock>
-        {children}
-        {/**
-          @todo check in the react doc the "children" render references
-         */}
-      </PageContainer>
+      <>
+        <PageContainer>
+          <Helmet>
+            <title>REACT Boilerplate</title>
+          </Helmet>
+          <HeaderBlock
+            css={{
+              backgroundColor: 'hotpink',
+              '&:hover': {
+                color: 'lightgreen'
+              },
+              paddingLeft: '40px'
+            }}
+          >
+            <h4>
+              HEADER
+            </h4>
+          </HeaderBlock>
+          {children}
+          {/**
+           @todo check in the react doc the "children" render references
+           */}
+        </PageContainer>
+        <Footer />
+      </>
     );
   }
 }

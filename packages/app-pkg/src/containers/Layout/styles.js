@@ -3,7 +3,7 @@ import styled, { css } from 'styled-components';
 export const PageContainer = styled.div`
   position: relative;
   height: calc(100vh - 200px);
-  min-height: 500px;
+  min-height: calc(100vh - 200px);
   background-color: ${props => props.theme.colors.greyTask};
   ${props => props.isEasterEgg && css`
     background-color: ${props.theme.colors.blue};

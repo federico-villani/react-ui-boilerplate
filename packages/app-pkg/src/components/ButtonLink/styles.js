@@ -4,8 +4,7 @@ import MQ from '../../utils/mediaQueries';
 
 const mediaquery = {
   phone: MQ.checkMediaQuery(MQ.phone),
-  tablet: MQ.checkMediaQuery(MQ.tablet),
-  phone_tablet: MQ.checkMediaQuery(MQ.phone_tablet)
+  tablet: MQ.checkMediaQuery(MQ.tablet)
 };
 
 export const ButtonContainer = styled(Link)`
@@ -52,9 +51,6 @@ export const ButtonText = styled.div`
   letter-spacing: ${props => (props.notUppercase ? '0.8px' : '1.2px')};
   margin-left:25px;
   text-transform: ${props => (props.notUppercase ? 'none' : 'uppercase')};
-  ${mediaquery.phone_tablet}{
-    line-height: 1em;
-  }
   ${mediaquery.phone}{
     font-size: 14px;
     margin-right: 15px;
