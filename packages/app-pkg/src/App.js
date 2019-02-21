@@ -94,16 +94,6 @@ class App extends Component {
 }
 
 App.propTypes = {
-  // booksList: PropTypes.array.isRequired,
-  // bookSelected: PropTypes.object,
-  // modalData: PropTypes.object,
-  // openModalNewLayout: PropTypes.func,
-  // closeModal: PropTypes.func,
-  // ua: PropTypes.shape({
-  //   mobile: PropTypes.string,
-  //   md: PropTypes.any,
-  //   ua: PropTypes.any
-  // })
 };
 
 export default connect(

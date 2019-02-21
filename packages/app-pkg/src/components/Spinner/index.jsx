@@ -5,7 +5,7 @@ import { SpinnerStyled } from './styles';
 class Spinner extends React.PureComponent {
   render() {
     const { spinnerState } = this.props;
-    // if (!spinnerState) return null;
+    if (!spinnerState) return null;
     return (
       <SpinnerStyled>
         here your spinner

@@ -5,7 +5,6 @@ import 'react-app-polyfill/ie11';
 import 'normalize.css';
 import './styles/bootstrap/bootstrap.min.css';
 import './styles/app.scss';
-import './styles/iconfont.scss';
 
 import React from 'react';
 import ReactDOM from 'react-dom';
