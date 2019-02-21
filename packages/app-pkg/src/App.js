@@ -17,7 +17,7 @@ import Footer from './components/Footer';
 
 /* --- Containers ---- */
 import Layout from './containers/Layout';
-import Landing from './containers/Landing';
+import { Landing } from './containers/lazy';
 /* --- Utils ---- */
 
 /* --- Theme ---- */
