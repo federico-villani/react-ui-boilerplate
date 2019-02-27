@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Spinner from '../components/Spinner';
 
 function withSuspence(LazyComp) {
+  // @todo add error bonduary example
   //eslint-disable-next-line
   return class extends Component {
     render() {
