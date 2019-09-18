@@ -58,10 +58,10 @@ import { MyUIComponent } from 'ui-pkg';
   - [Create React App](https://facebook.github.io/create-react-app/docs/getting-started)
 
   - [Create React App v2 release note](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)
+  
+  - [React/Redux main concepts collection](https://rangle.github.io/react-training/)  
   </details>
   
-  - [React/Redux main concepts collection](https://rangle.github.io/react-training/)
-
 - <details><summary>Styled Components</summary>
 
   - [Basic](https://www.styled-components.com/docs/basics)
