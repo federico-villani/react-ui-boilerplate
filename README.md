@@ -87,10 +87,20 @@ import { MyUIComponent } from 'ui-pkg';
 - [React/Redux main concepts collection](https://rangle.github.io/react-training/)
 
 ### Advanced
+- <details><summary>Redux</summary>
 
-- [Redux](https://redux.js.org/)
+  - [Redux](https://redux.js.org/)
 
-- [Redux Saga](https://redux-saga.js.org/docs/introduction/BeginnerTutorial.html)
+  - [Redux Saga](https://redux-saga.js.org/docs/introduction/BeginnerTutorial.html)
+  
+  - [Immutability Pattern](https://redux.js.org/recipes/structuring-reducers/immutable-update-patterns)
+  
+  - [Immutable data FAQ](https://redux.js.org/faq/immutable-data)
+  
+  - [Immutabiliby guide](https://daveceddia.com/react-redux-immutability-guide/)
+  
+  - [Introduction to Immutable.js and Functional Programming Concept](https://auth0.com/blog/intro-to-immutable-js/)
+  </details>
 
 - [Babel](https://babeljs.io/)
 
