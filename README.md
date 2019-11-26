@@ -38,7 +38,7 @@ import { MyUIComponent } from 'ui-pkg';
 - and then, to start the app-pkg run the command `npm run app-pkg-start`
 - to see storybook, run the command `npm run ui-pkg-storybook-start`
 
-## Utils
+## Docs
 
 ### Basic
 - <details><summary>React</summary>
@@ -58,6 +58,10 @@ import { MyUIComponent } from 'ui-pkg';
   - [Create React App](https://facebook.github.io/create-react-app/docs/getting-started)
 
   - [Create React App v2 release note](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)
+  
+  - [Hooks API Reference](https://reactjs.org/docs/hooks-reference.html)
+  
+  - [Hooks Recipes](https://github.com/gragland/usehooks)
   </details>
 
 - <details><summary>Styled Components</summary>
@@ -100,6 +104,8 @@ import { MyUIComponent } from 'ui-pkg';
   - [Immutabiliby guide](https://daveceddia.com/react-redux-immutability-guide/)
   
   - [Introduction to Immutable.js and Functional Programming Concept](https://auth0.com/blog/intro-to-immutable-js/)
+  
+  - [Reselct](https://github.com/reduxjs/reselect)
   </details>
 
 - [Babel](https://babeljs.io/)
@@ -127,6 +133,8 @@ import { MyUIComponent } from 'ui-pkg';
 
 - [NextJS - Server Side Rendering](https://nextjs.org/)
 
+- [Universal rendering - SSR](https://github.com/brillout/awesome-universal-rendering)
+
 - [React - Typescript cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet?fbclid=IwAR1OHnqDaghBIfRTwd9X3n574vLkXKCT5qijXL53B_cNT43JX953DMmeA2Y)
 
 ### Dev Tools
@@ -142,7 +150,11 @@ import { MyUIComponent } from 'ui-pkg';
 
 ### Extras
 
- - [React - Starter kits](https://reactjs.org/community/starter-kits.html)
+- [React - Starter kits](https://reactjs.org/community/starter-kits.html)
+
+- [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)
+
+- [Redux - Starter Kit](https://github.com/reduxjs/redux-toolkit)
 
 - <details><summary>UI Component Libraries</summary>
 
@@ -159,7 +171,16 @@ import { MyUIComponent } from 'ui-pkg';
 
 - [Grommet](https://github.com/grommet/grommet)
 
+- [React Microservices/Microfrontends](https://github.com/ImmoweltGroup/create-react-microservice)
 
+- [Tailor React Microfrontend](https://github.com/tsnolan23/tailor-react-spa)
+
+- [React Testing Library](https://github.com/testing-library/react-testing-library)
+
+- [Testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
+
+- [Drupal 8 and React Boilerplate](https://github.com/federico-villani/drupal_reactjs_boilerplate
+)
 ## What's next?
    
 In the next future i'll provide the same boilerplate with separate branches including Redux Thunk and Saga config as well. It will be up to you to know which one would fit better for your own need. 
